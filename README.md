@@ -16,10 +16,9 @@
 
 ---
 
-## 全部支持
-openai系列
-deepseek系列
-仔埔
+## 全部支持最活跃的主流模型名称：
+
+GPT-5.4、GPT-5.3 Codex、o3-mini、Claude 4.6 Opus、Claude 4.5 Sonnet、Claude 3.7、Gemini 3.1 Pro、Gemini 2.5 Flash、DeepSeek V4、DeepSeek R1、Llama 4 Maverick、Llama 4 Scout、Qwen 3 (通义千问)、Grok 4.1、Mistral Medium 3.1、Kimi K2、GLM-5 (智谱)、Phi-4
 
 ### 🛠️ 开发建议
 1. **统一接口**：建议使用 `One-API` 将各家 Key 聚合成统一的 OpenAI 格式。
