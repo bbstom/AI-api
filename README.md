@@ -7,7 +7,7 @@
 | | 推荐模型 | 免费额度 / 策略 | 核心亮点 | 地址 |
 | :--- | :--- | :--- | :--- | :--- |
 | **公益平台** | 多模型聚合(含GPT claude4.6) | 签送20刀 | 中转直连/可用API key | ✅ [立即访问](https://routerpark.com/login?aff=zte3e2ff)|
-| **公益平台** | 多模型聚合(含GPT claude4.6) | 签送5刀 | 中转直连/可用API key | ✅ [立即访问](https://ai.121628.xyz/register?aff=6YJH) |
+| **公益平台** | 多模型聚合(含GPT claude4.6) | 签送5刀 | 中转直连/可用API key | ✅ [立即访问](https://ai.121628.xyz/register?aff=TTyx) |
 | **公益平台** | 多模型聚合(含GPT claude4.6) | 签送5刀 | 中转直连/可用API key | ✅ [立即访问](https://gpt.qt.cool/?ref=T84jBn) |
 | **公益平台** | 多模型聚合(含GPT claude4.6) | 签送2刀 | 中转直连/可用API key | ✅ [立即访问](https://api.cpass.cc/register?aff=3B44) |
 | **公益平台** | 多模型聚合(含GPT claude4.6) | 签送200刀 | 中转直连/可用API key | ✅ [立即访问](https://agentrouter.org/register?aff=iv3I) |
